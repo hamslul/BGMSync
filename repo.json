@@ -3,7 +3,7 @@
     "Author": "hamslul",
     "Name": "BGMSync",
     "Punchline": "Syncs boss fight BGM to the pull timer.",
-    "Description": "Syncs boss encounter BGM to the pull timer. Starts the correct fight music when combat begins and stops it on wipe and/or completion. No dependencies required. (It very crudely tries to guess what song is playing when not in an instance. Be warned it may get some things wrong.",
+    "Description": "Syncs background music to encounter pull. Probably wont work if not in a duty. (Also tries to guess what song is playing outside of a duty by the location name, could be wrong idk.)",
     "InternalName": "BGMSync",
     "AssemblyVersion": "1.0.0.0",
     "TestingAssemblyVersion": "1.0.0.0",
