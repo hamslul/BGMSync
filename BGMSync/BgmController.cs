@@ -169,6 +169,7 @@ internal sealed unsafe class BgmController : IDisposable
                 foreach (var song in songs)
                 {
                     if (!string.IsNullOrEmpty(song.Locations) &&
+                        !song.Locations.Contains("cutscene", StringComparison.OrdinalIgnoreCase) &&
                         song.Locations.Contains(overrideTerm, StringComparison.OrdinalIgnoreCase))
                         return song.Id;
                 }
@@ -188,6 +189,7 @@ internal sealed unsafe class BgmController : IDisposable
                 foreach (var song in songs)
                 {
                     if (!string.IsNullOrEmpty(song.Locations) &&
+                        !song.Locations.Contains("cutscene", StringComparison.OrdinalIgnoreCase) &&
                         song.Locations.Contains(term, StringComparison.OrdinalIgnoreCase))
                         return song.Id;
                 }
