@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "soren122413",
+    "Name": "BGMSync",
+    "Punchline": "Syncs boss fight BGM to the pull timer.",
+    "Description": "Syncs boss encounter BGM to the pull timer. Starts the correct fight music when combat begins and stops it on wipe or completion. No dependencies required.",
+    "InternalName": "BGMSync",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/soren122413/BGMSync",
+    "Tags": ["bgm", "music", "combat", "encounter"],
+    "CategoryTags": ["combat", "utility"],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "DownloadLinkInstall": "https://github.com/soren122413/BGMSync/releases/download/v1.0.0/BGMSync.zip",
+    "DownloadLinkUpdate": "https://github.com/soren122413/BGMSync/releases/download/v1.0.0/BGMSync.zip",
+    "DownloadLinkTesting": "https://github.com/soren122413/BGMSync/releases/download/v1.0.0/BGMSync.zip",
+    "LastUpdate": 0,
+    "DownloadCount": 0,
+    "IconUrl": "",
+    "ImageUrls": []
+  }
+]
