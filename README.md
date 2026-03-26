@@ -1,5 +1,5 @@
 # BGMSync
-Syncs FFXIV encounter BGM to the pull timer - will not sync when outside of a duty
+Syncs FFXIV encounter BGM to the pull timer - will not sync when outside of a duty as it relies on duty's pull timer
 
 Shows song currently playing
 
