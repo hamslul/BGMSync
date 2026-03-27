@@ -2,7 +2,7 @@
   "Author": "YourName",
   "Name": "BGMSync",
   "Punchline": "Syncs boss fight BGM to the pull timer.",
-  "Description": "Standalone encounter BGM sync. No OrchestrionPlugin required. Loads the full FFXIV song list and controls BGM directly via memory, synced to the pull timer.",
+  "Description": "Standalone encounter BGM sync. Loads the full FFXIV song list and controls BGM directly via memory, synced to the pull timer.",
   "InternalName": "BGMSync",
   "AssemblyVersion": "2.0.0.0",
   "RepoUrl": "https://github.com/YourName/BGMSync",
