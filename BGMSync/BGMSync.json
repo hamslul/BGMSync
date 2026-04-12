@@ -1,0 +1,16 @@
+{
+  "Author": "YourName",
+  "Name": "BGMSync",
+  "Punchline": "Replace boss music with any song.",
+  "Description": "Silences combat music on entry and plays your chosen track on pull. Supports multiple phases per fight, each triggered by the game's BGM ID.",
+  "InternalName": "BGMSync",
+  "AssemblyVersion": "1.0.0.3",
+  "RepoUrl": "https://github.com/YourName/BGMSync",
+  "ApplicableVersion": "any",
+  "Tags": ["bgm", "music", "combat", "encounter"],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": true,
+  "LoadPriority": 0
+}
